@@ -1,4 +1,4 @@
-import react from 'react';
+// import react from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MemoryGame from './memorygame';
 
